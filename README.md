@@ -19,7 +19,7 @@
 - 🌱 Currently learning **Firebase**, **REST API**, **Clean Architecture**, **MongoDB**, **CI/CD**, **Backend Integration**  
 - 💡 Love solving problems & optimizing UI for better performance  
 - 📫 Reach me: **smperves12@gmail.com**  
-- 🌐 Portfolio: [sanaul-perves.netlify.app](https://sanaul-parvej.netlify.app/)
+- 🌐 Portfolio: [sanaul-parves.netlify.app](https://sanaul-parvej.netlify.app/)
 
 ---
 
@@ -79,7 +79,7 @@
 ### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanaulperves&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sanaulperves&theme=react-dark" />
 </p>
 
 ---
@@ -98,6 +98,9 @@
   </a>
   <a href="mailto:smperves12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sanaul-parvej.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
