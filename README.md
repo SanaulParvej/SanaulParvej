@@ -19,7 +19,7 @@
 - 🌱 Currently learning **Firebase**, **REST API**, **Clean Architecture**, **MongoDB**, **CI/CD**, **Backend Integration**  
 - 💡 Love solving problems & optimizing UI for better performance  
 - 📫 Reach me: **smperves12@gmail.com**  
-- 🌐 Portfolio: [sanaul-perves.netlify.app](https://sanaul-perves.netlify.app)
+- 🌐 Portfolio: [sanaul-perves.netlify.app](https://sanaul-parvej.netlify.app/)
 
 ---
 
